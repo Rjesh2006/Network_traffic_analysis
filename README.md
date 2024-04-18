@@ -132,7 +132,8 @@ const struct ip* ipHeader = reinterpret_cast<const struct ip*>(packet + 14);
   ```
 
 ***Noe, we can run this code and this will give us output like this (Iterface:⏬)**
-![Screenshot from 2024-04-12 21-07-04](https://github.com/Rjesh2006/NTA/assets/143868643/2a8c4fdf-2e88-45df-a6b2-aa7b89a2bdfc)
+![Screenshot from 2024-04-18 10-12-43](https://github.com/Rjesh2006/NTA/assets/143868643/a22bde27-867b-48f5-9d42-57d507fc9bce)
+
 
 *Also you can watch this video to better iundersstanding of output*
  - [*by clicking on (**view Raw** )*](https://github.com/Rjesh2006/NTA/blob/main/Screencast%20from%2018-04-24%2010%3A25%3A50%20AM%20IST.webm)
