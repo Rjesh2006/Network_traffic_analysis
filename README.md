@@ -4,13 +4,15 @@
 **Step -:1**
  - *first we have to creat a cpp file*
  - *i used here the ubuntu terminal to creat my cpp file which is rk1.cppp*
-   fig5645
+   ![Screenshot from 2024-04-18 09-38-36](https://github.com/Rjesh2006/NTA/assets/143868643/17519ab9-23f4-4ce0-ab38-ac29ab12b208)
+
 
 
 **Step -:2**
 *here we understad about the header file wwhichh require in (netwwork analysis project )
  - required hearder file
-  - fig54654646
+    ![Screenshot from 2024-04-18 09-42-13](https://github.com/Rjesh2006/NTA/assets/143868643/e79e68a0-25e1-4a05-9d6c-31d216f8b17a)
+
 
  *now now lstes understand about the header file which we defined there:⏫*
    1. must required file is <pcap.h>
@@ -133,7 +135,7 @@ const struct ip* ipHeader = reinterpret_cast<const struct ip*>(packet + 14);
 ![Screenshot from 2024-04-12 21-07-04](https://github.com/Rjesh2006/NTA/assets/143868643/2a8c4fdf-2e88-45df-a6b2-aa7b89a2bdfc)
 
 *Also you can watch this video to better iundersstanding of output*
- - *by clicking here*
+ - [*by clicking on (**view Raw** )*](https://github.com/Rjesh2006/NTA/blob/main/Screencast%20from%2014-04-24%2002%3A49%3A44%20PM%20IST.webm)
 
 
 
