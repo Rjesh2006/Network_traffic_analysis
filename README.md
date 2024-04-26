@@ -9,12 +9,12 @@
 
 
 **Step -:2**
-*here we understad about the header file wwhichh require in (netwwork analysis project )
+*here we have to understad about the header file wwhich required in (netwwork analysis project )
  - required hearder file
     ![Screenshot from 2024-04-18 09-42-13](https://github.com/Rjesh2006/NTA/assets/143868643/e79e68a0-25e1-4a05-9d6c-31d216f8b17a)
 
 
- *now now lstes understand about the header file which we defined there:⏫*
+ *now now lets understand about the* *header file which we defined there:⏫*
    1. must required file is <pcap.h>
     -  * pcap.h is a header file used in Cpp programming for working with packet capture libraries. It contains declarations for structures, functions, constants, and error codes related to capturing and analyzing 
          network packets. It's essential for developing network monitoring and analysis tools in Cpp*
