@@ -144,6 +144,17 @@ const struct ip* ipHeader = reinterpret_cast<const struct ip*>(packet + 14);
 
   -  [click here to Grab the code in python ](https://github.com/Rjesh2006/Network_traffic_analysis/blob/main/code_in_python_lang.py)
 
+  -  **After running the code, you will see an interface like this. I have also included a link to a sample video for better clarity. You can visit the video for a more detailed view. Click on "View as Raw" 
+       after clicking the link.**
+
+     [click here for the vido after it click on view raw file(for python prog)]()
+
+
+     
+  -  here is the img as sample
+  - ![Screenshot 2024-08-09 000335](https://github.com/user-attachments/assets/d51bc2be-9047-43f3-ac0c-e73686c9bad3)
+
+
 
 
    
