@@ -138,6 +138,11 @@ const struct ip* ipHeader = reinterpret_cast<const struct ip*>(packet + 14);
 *Also you can watch this video to better iundersstanding of output*
  - [*by clicking on (**view Raw** )*](https://github.com/Rjesh2006/NTA/blob/main/Screencast%20from%2018-04-24%2010%3A25%3A50%20AM%20IST.webm)
 
+   ***And also we have the this programme i python code also with runtime analysis (static 
+    reprsentaion of the traffic . in this programme u can also select for which interface u 
+    wanna to use i will prefer u to select 4  **wifi adapter option as selecting 4** ***
+    -[click here to Grab the code in python ](https://github.com/Rjesh2006/Network_traffic_analysis/blob/main/code_in_python_lang.py)
+
 
 
    
