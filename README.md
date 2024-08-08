@@ -142,7 +142,7 @@ const struct ip* ipHeader = reinterpret_cast<const struct ip*>(packet + 14);
     reprsentaion of the traffic . in this programme u can also select for which interface u 
     wanna to use i will prefer u to select 4  (**wifi adapter option as selecting 4*****<ins>
 
-  -  [click here to Grab the code in python ](https://github.com/Rjesh2006/Network_traffic_analysis/blob/main/code_in_python_lang.py)
+  -  [click here to Grab the code in python ](https://github.com/Rjesh2006/Network_traffic_analysis/blob/main/src_code.py)
 
   -  **After running the code, you will see an interface like this. I have also included a link to a sample video for better clarity. You can visit the video for a more detailed view. Click on "View as Raw" 
        after clicking the link.**
